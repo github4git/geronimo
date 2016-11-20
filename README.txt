@@ -25,7 +25,7 @@ Release Notes
 
  
 ___________________
-Installation
+安装
 ===================
 
  If you've downloaded and unpacked a binary distribution of Geronimo,
@@ -35,7 +35,7 @@ Installation
 
  
 ___________________
-Geronimo Home
+Geronimo 官网
 ===================
  
  The GERONIMO_HOME directory, is the directory where the Geronimo
@@ -49,7 +49,7 @@ Geronimo Home
 
 
 ___________________
-Starting
+启动
 ===================
 
  The main server class is also packed in an executable jar,
@@ -71,7 +71,7 @@ Starting
    
 
 ___________________
-Deploying
+部署
 ===================
 
  The Geronimo deployment tool is packaged in the executable jar
@@ -92,7 +92,7 @@ Deploying
 
 
 ___________________
-Support
+支持
 ===================
  
  Any problems with this release can be reported to the Geronimo
